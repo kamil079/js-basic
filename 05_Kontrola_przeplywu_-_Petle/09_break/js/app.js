@@ -3,6 +3,5 @@ while (true) {
   /**
    * Write your code below!
    */
-
-
+  
 }
